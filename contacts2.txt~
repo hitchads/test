@@ -1,1 +1,7 @@
-2nd file of contacts added
+<<<<<<< HEAD
+2nd file of  added
+contacts removed in above line
+=======
+2nd file of contacts 
+added file deleted in above line
+>>>>>>> e62f90130027c87f9c45eab55420fbb8201a545a
