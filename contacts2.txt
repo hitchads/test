@@ -1,1 +1,2 @@
-2nd file of contacts added
+2nd file of  added
+contacts removed in above line
